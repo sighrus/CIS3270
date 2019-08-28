@@ -15,6 +15,7 @@ public class chapter2 {
         int grat = input.nextInt();
         System.out.println("The gratuity is $" + sub*grat/100.0 + " and the total is $" + (sub + (sub*grat/100.0)));
     }
+    //test
 
 
 }
