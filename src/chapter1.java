@@ -13,10 +13,10 @@ public class chapter1 {
         int death = n / 13;
         int imm = n / 45;
 
-        for (int i = 0; i < 5; i++) {
+        for (int i = 1; i <= 5; i++) {
             p += birth - death + imm;
+            System.out.println("Population for year " + i + " is: " + p);
         }
-        System.out.println("Population over next 5 years is: " + p);
     }
 
 

@@ -30,13 +30,11 @@ public class ShowCurrentTime {
         long currentHour = totalHours % 24;
 
         if (currentHour + offset < 0) {
-            currentHour += offset + 12;
-        } else if (currentHour + offset > 0 && currentHour + offset < 12) {
+            currentHour += offset + 24;
+        } else if (currentHour + offset > 0 && currentHour + offset < 24) {
             currentHour += offset;
-        } else if (currentHour + offset > 12) {
-            currentHour += offset - 12;
-        } else if (currentHour + offset == 0) {
-            currentHour = 0;
+        } else if (currentHour + offset >= 24) {
+            currentHour += offset - 24;
         } else {
             currentHour = 0;
         }
@@ -44,6 +42,6 @@ public class ShowCurrentTime {
         // Display results
 
         System.out.println("Current time is " + currentHour + ":"
-               + currentMinute + ":" + currentSecond + " GMT");
+               + currentMinute + ":" + currentSecond);
         }
 }
