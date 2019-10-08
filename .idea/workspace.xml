@@ -2,14 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2126ea2d-0b64-4aef-8b7b-e143cdd8066b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Chapter3/ch3Q17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter3/ch3Q19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter3/ch3Q24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter3/ch3Q28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/ch4Q11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/ch4Q13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/ch4Q15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/ch4Q21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/ch4Q5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/ch4Q8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch5Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch5Q17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch5Q18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch5Q18p2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch5Q18p3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch5Q18p4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch5Q21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch5Q24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch5Q41.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch5Q45.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch5Q51.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch5Q7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch5Q9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter6/Chapter2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter6/Chapter3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CIS3270 - Assignment 1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CIS3270 - Assignment 1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CIS3270 - Assignment 1/chapter1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ShowCurrentTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/ShowCurrentTime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CIS3270 - Assignment 1/ShowCurrentTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CIS3270 - Assignment 1/ch2Q14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CIS3270 - Assignment 1/ch2Q19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CIS3270 - Assignment 1/ch2Q5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CIS3270 - Assignment 1/ch2Q6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CIS3270 - Assignment 1/ch2Q7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CIS3270 - Assignment 1/chapter2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CIS3270 - Assignment 1/chapter3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter3/ch3Q5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter3/ch3Q5.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -83,59 +111,117 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1764673792">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="112" />
+          <entry key="java" value="1227" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1224" />
+          <entry key="PLAIN_TEXT" value="112" />
+          <entry key="RegExp" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="34" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="34" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Chapter3/ch3Q5.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Chapter3/ch3Q17.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+            <state relative-caret-position="920">
+              <caret line="40" column="45" selection-start-line="40" selection-start-column="45" selection-end-line="40" selection-end-column="45" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chapter3/ch3Q4.java">
+        <entry file="file://$PROJECT_DIR$/src/Chapter3/ch3Q19.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
+            <state relative-caret-position="426">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Chapter3/ch3Q24.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chapter3/ch3Q1.java">
+        <entry file="file://$PROJECT_DIR$/src/Chapter6/ch6Q5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="196">
+              <caret line="24" column="24" lean-forward="true" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chapter2/ShowCurrentTime.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chapter1/ch1Q13.java">
+        <entry file="file://$PROJECT_DIR$/src/Chapter6/ch6Q10.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="184">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <caret line="8" column="33" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chapter1/ch1Q11.java">
+        <entry file="file://$PROJECT_DIR$/src/Chapter6/PrimeNumberMethod.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="322">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+              <caret line="14" column="60" lean-forward="true" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Chapter3/ch3Q12.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="7" column="60" selection-start-line="7" selection-start-column="60" selection-end-line="7" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Chapter5/ch5Q1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Chapter4/ch4Q5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -172,20 +258,32 @@
         <option value="$PROJECT_DIR$/src/ch3Q4.java" />
         <option value="$PROJECT_DIR$/src/Chapter3/ch3Q1.java" />
         <option value="$PROJECT_DIR$/src/Chapter3/ch3Q5.java" />
+        <option value="$PROJECT_DIR$/src/Chapter3/ch3Q12.java" />
+        <option value="$PROJECT_DIR$/src/Chapter4/Number5.java" />
+        <option value="$PROJECT_DIR$/src/Chapter4/ch4Q5.java" />
+        <option value="$PROJECT_DIR$/src/Chapter3/ch3Q17.java" />
+        <option value="$PROJECT_DIR$/src/Chapter3/ch3Q19.java" />
+        <option value="$PROJECT_DIR$/src/Chapter6/ch6Q5.java" />
+        <option value="$PROJECT_DIR$/src/Chapter6/ch6Q10.java" />
+        <option value="$PROJECT_DIR$/src/Chapter6/PrimeNumberMethod.java" />
+        <option value="$PROJECT_DIR$/src/Chapter5/ch5Q1.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="147" />
-    <option name="y" value="225" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="816" />
+    <option name="height" value="876" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -202,28 +300,42 @@
               <item name="CIS3270" type="b2602c69:ProjectViewProjectNode" />
               <item name="CIS3270" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter1" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CIS3270" type="b2602c69:ProjectViewProjectNode" />
               <item name="CIS3270" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter3" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CIS3270" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CIS3270" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CIS3270" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CIS3270" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter6" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570414505993" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570500384545" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Cyrus Yan\Documents\GitHub\CIS3270\src\Chapter6" />
+      <recent name="C:\Users\Cyrus Yan\Documents\GitHub\CIS3270\src\Chapter5" />
+      <recent name="C:\Users\Cyrus Yan\Documents\GitHub\CIS3270\src\Chapter4" />
+      <recent name="C:\Users\Cyrus Yan\Documents\GitHub\CIS3270\src\Chapter3" />
       <recent name="C:\Users\Cyrus Yan\IdeaProjects\CIS3270\src\Chapter 1" />
     </key>
   </component>
@@ -239,17 +351,49 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ch2Q19">
-    <configuration name="ShowCurrentTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter2.ShowCurrentTime" />
+  <component name="RunManager" selected="Application.ch6Q5">
+    <configuration name="ch2Q19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter2.ch2Q19" />
       <module name="CIS3270 - Assignment 1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ch2Q19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter2.ch2Q19" />
+    <configuration name="ch3Q12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter3.ch3Q12" />
       <module name="CIS3270 - Assignment 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch3Q5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter3.ch3Q5" />
+      <module name="CIS3270 - Assignment 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch6Q5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter6.ch6Q5" />
+      <module name="CIS3270 - Assignment 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -261,34 +405,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="chapter2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter2" />
-      <module name="CIS3270 - Assignment 1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="chapter3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter3" />
-      <module name="CIS3270 - Assignment 1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.chapter2" />
-      <item itemvalue="Application.ShowCurrentTime" />
-      <item itemvalue="Application.chapter3" />
       <item itemvalue="Application.chapter1" />
       <item itemvalue="Application.ch2Q19" />
+      <item itemvalue="Application.ch3Q5" />
+      <item itemvalue="Application.ch3Q12" />
+      <item itemvalue="Application.ch6Q5" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ch6Q5" />
+        <item itemvalue="Application.ch3Q12" />
+        <item itemvalue="Application.ch3Q5" />
         <item itemvalue="Application.ch2Q19" />
         <item itemvalue="Application.chapter1" />
-        <item itemvalue="Application.chapter3" />
-        <item itemvalue="Application.chapter2" />
-        <item itemvalue="Application.ShowCurrentTime" />
       </list>
     </recent_temporary>
   </component>
@@ -314,11 +444,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="816" height="876" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="simpleUML" weight="0.32995737" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19349681" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.40343916" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -326,9 +455,10 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Learn" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info id="simpleUML" order="8" weight="0.32995737" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32929516" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.26211452" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.260989" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -337,7 +467,6 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32967034" />
-      <window_info anchor="right" id="PlantUML" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -346,20 +475,21 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="PlantUML" order="8" />
     </layout>
     <layout-to-restore>
-      <window_info id="simpleUML" order="0" weight="0.32995737" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.19349681" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="3" />
-      <window_info id="Image Layers" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="UI Designer" order="6" />
-      <window_info id="Learn" order="7" />
-      <window_info id="Favorites" order="8" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19601542" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info id="simpleUML" order="8" weight="0.32995737" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26211452" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32929516" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.260989" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -368,15 +498,15 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32967034" />
-      <window_info anchor="right" id="PlantUML" order="0" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="PlantUML" order="8" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -390,48 +520,9 @@
     <entry file="file://$PROJECT_DIR$/Assignment 1/src/chapter1.java" />
     <entry file="file://$PROJECT_DIR$/Assignment 1/src/chapter2.java" />
     <entry file="file://$PROJECT_DIR$/src/scannerClass.java" />
-    <entry file="file://$PROJECT_DIR$/src/chapter1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter 1/test.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter1/ch1Q11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter1/ch1Q13.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter2/ch2Q5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter1.java" />
+    <entry file="file://$PROJECT_DIR$/src/Chapter 1/test.kt" />
+    <entry file="file://$PROJECT_DIR$/src/chapter2.java" />
     <entry file="file://$PROJECT_DIR$/src/Chapter2/ch2Q6.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
@@ -460,6 +551,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter3.java" />
+    <entry file="file://$PROJECT_DIR$/src/Chapter3/ch3Q1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Chapter2/ShowCurrentTime.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
@@ -467,10 +566,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter3/ch3Q1.java">
+    <entry file="file://$PROJECT_DIR$/src/Chapter1/ch1Q13.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="184">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter1/ch1Q11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
@@ -481,20 +587,141 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter3.java">
+    <entry file="file://$PROJECT_DIR$/src/Chapter3/ch3Q5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="78" selection-start-line="78" selection-end-line="78" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="311">
+          <caret line="17" column="60" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter3/ch3Q5.java">
+    <entry file="file://$PROJECT_DIR$/src/Chapter3/ch3Q28.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter4/ch4Q8.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter3/ch3Q17.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter2/ch2Q5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter4/ch4Q11.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter4/ch4Q13.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter4/ch4Q15.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter4/ch4Q21.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter5/ch5Q9.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter5/ch5Q17.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter5/ch5Q18.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter5/ch5Q18p2.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter5/ch5Q18p3.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter5/ch5Q18p4.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter5/ch5Q21.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter5/ch5Q24.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter5/ch5Q41.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter5/ch5Q45.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter6/Chapter3.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter6/Chapter2.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter4/ch4Q5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter3/ch3Q17.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="920">
+          <caret line="40" column="45" selection-start-line="40" selection-start-column="45" selection-end-line="40" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter3/ch3Q19.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter3/ch3Q24.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter6/ch6Q5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="24" column="24" lean-forward="true" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter6/ch6Q10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter6/PrimeNumberMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="60" lean-forward="true" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter5/ch5Q1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter3/ch3Q12.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+          <caret line="7" column="60" selection-start-line="7" selection-start-column="60" selection-end-line="7" selection-end-column="60" />
         </state>
       </provider>
     </entry>
