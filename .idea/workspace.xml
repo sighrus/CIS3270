@@ -2,42 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2126ea2d-0b64-4aef-8b7b-e143cdd8066b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/ch3Q17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/ch3Q19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/ch3Q24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/ch3Q28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter4/ch4Q11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter4/ch4Q13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter4/ch4Q15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter4/ch4Q21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter4/ch4Q5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter4/ch4Q8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch5Q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch5Q17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch5Q18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch5Q18p2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch5Q18p3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch5Q18p4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch5Q21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch5Q24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch5Q41.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch5Q45.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch5Q51.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch5Q7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch5Q9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter6/Chapter2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter6/Chapter3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CIS3270 - Assignment 1/ShowCurrentTime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CIS3270 - Assignment 1/ch2Q14.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CIS3270 - Assignment 1/ch2Q19.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CIS3270 - Assignment 1/ch2Q5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CIS3270 - Assignment 1/ch2Q6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CIS3270 - Assignment 1/ch2Q7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CIS3270 - Assignment 1/chapter2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CIS3270 - Assignment 1/chapter3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter3/ch3Q5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter3/ch3Q5.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -114,6 +79,7 @@
     <session id="1764673792">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -158,7 +124,7 @@
         <entry file="file://$PROJECT_DIR$/src/Chapter3/ch3Q19.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="426">
-              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
         </entry>
@@ -176,7 +142,7 @@
         <entry file="file://$PROJECT_DIR$/src/Chapter6/ch6Q5.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="196">
-              <caret line="24" column="24" lean-forward="true" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+              <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -194,7 +160,7 @@
         <entry file="file://$PROJECT_DIR$/src/Chapter6/PrimeNumberMethod.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="322">
-              <caret line="14" column="60" lean-forward="true" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
+              <caret line="14" column="60" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
             </state>
           </provider>
         </entry>
@@ -327,7 +293,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570500384545" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573081479894" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -679,7 +645,7 @@
     <entry file="file://$PROJECT_DIR$/src/Chapter3/ch3Q19.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="426">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
@@ -693,7 +659,7 @@
     <entry file="file://$PROJECT_DIR$/src/Chapter6/ch6Q5.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
-          <caret line="24" column="24" lean-forward="true" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -707,7 +673,7 @@
     <entry file="file://$PROJECT_DIR$/src/Chapter6/PrimeNumberMethod.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
-          <caret line="14" column="60" lean-forward="true" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
+          <caret line="14" column="60" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
         </state>
       </provider>
     </entry>
